@@ -1,4 +1,4 @@
-Generating Acrtoon faces using a Deep Convolutional Generative Adversarial Network (DCGAN).    
+Generating cartoon faces using a Deep Convolutional Generative Adversarial Network (DCGAN).    
 
 # Dataset 
 The dataset is taken from [here](https://google.github.io/cartoonset/download.html). 
