@@ -1,6 +1,7 @@
 Generating Acrtoon faces using a Deep Convolutional Generative Adversarial Network (DCGAN).    
 
-# Dataset used The dataset is taken from Kaggle over [here](https://google.github.io/cartoonset/download.html). 
+# Dataset 
+The dataset is taken from [here](https://google.github.io/cartoonset/download.html). 
 processed using a face detector based on the repo https://github.com/nagadomi/lbpcascade_animeface. 
 The dataset contains images of size 64 by 64 pixels.  
 # Objective 
